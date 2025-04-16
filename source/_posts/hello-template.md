@@ -1,5 +1,5 @@
 ---
-title: Hexo Template
+title: nanakawaiina blog
 ---
 
 > A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org). Here is the template of it.
